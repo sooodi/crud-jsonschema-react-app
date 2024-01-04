@@ -1,0 +1,128 @@
+{
+  "product": [
+    {
+      "id": 24208957,
+      "name": "nostrud sit ullamco",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 4475087
+    },
+    {
+      "id": 87855163,
+      "name": "in culpa",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 34222324
+    },
+    {
+      "id": 36047530,
+      "name": "eu do",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 44750807
+    },
+    {
+      "id": 92906440,
+      "name": "incididunt",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 8067621
+    },
+    {
+      "id": 25996771,
+      "name": "nisi incididunt consequat",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 55260742
+    },
+    {
+      "id": 46002932,
+      "name": "laborum amet esse sunt pariatur",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 440807
+    },
+    {
+      "id": 54400323,
+      "name": "occaecat ipsum elit magna ullamco",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 44750
+    },
+    {
+      "id": 41006595,
+      "name": "veniam",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 17341238
+    },
+    {
+      "id": 73194103,
+      "name": "ipsum",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 57509671
+    },
+    {
+      "id": 96820317,
+      "name": "non voluptate enim eius",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 9058821
+    },
+    {
+      "id": 48836712,
+      "name": "Duis",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 91086363
+    },
+    {
+      "id": 13279371,
+      "name": "ea veniam Ut velit",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": "Duis cupidatat Excepteur nulla"
+    },
+    {
+      "id": 86441393,
+      "name": "cillum",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": -75750149
+    },
+    {
+      "id": 43996987,
+      "name": "dolor sed dolor anim",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 52605878
+    },
+    {
+      "id": 33973849,
+      "name": "in dolor non anim sit",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 526058
+    },
+    {
+      "id": 6824740,
+      "name": "cupidatat",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 59955998
+    },
+    {
+      "id": 88092107,
+      "name": "sed cons",
+      "image": "https://picsum.photos/600/400/?random",
+      "price": 65642632
+    }
+   
+  ],
+  "users": [
+    {
+      "id": 65518335,
+      "username": "Hayes",
+      "email": "Adrianna_Barton93@hotmail.com",
+      "password": "QuC_kVMPvW1EtVJ"
+    },
+    {
+      "email": "sudy.taher2023@gmail.com",
+      "password": "wertyu5",
+      "username": "fedf",
+      "id": 3
+    },
+    {
+      "email": "sudy@gmai.com",
+      "password": "$2a$10$poJSVhUoCJpG02y3CAtU0O6rimab/yxqZNTg.QwaNZEovuyMwH9q6",
+      "username": "sudy",
+      "confirm-password": "123456",
+      "id": 65518336
+    }
+  ]
+}

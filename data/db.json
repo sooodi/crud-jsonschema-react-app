@@ -1,0 +1,75 @@
+{
+  "product": [
+    {
+      "id": 127,
+      "name": "sogo",
+      "author": "Clemmie",
+      "price": "28436500",
+      "image": "https://picsum.photos/600/400/?random"
+    },
+    {
+      "name": "tom",
+      "price": "888",
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 131
+    },
+    {
+      "name": "jakom",
+      "price": "5679811110",
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 132
+    },
+    {
+      "name": "ftgfhb",
+      "price": "8888665",
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 133
+    },
+    {
+      "name": "fool",
+      "price": "54433000",
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 134
+    },
+    {
+      "id": 127,
+      "name": "sogo",
+      "author": "Clemmie",
+      "price": "28436500",
+      "image": "https://picsum.photos/600/400/?random"
+    },
+    {
+      "name": "tom",
+      "price": "888",
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 1318
+    },
+    {
+      "name": "sogow",
+      "price": 28436500,
+      "image": "https://picsum.photos/600/400/?random",
+      "author": "sudy.taher2023@gmail.com",
+      "id": 1319
+    }
+  ],
+  "users": [
+    {
+      "id": 44655492,
+      "username": "Paucek",
+      "email": "Joesph.Roberts56@yahoo.com",
+      "password": "s9DoKzKyJmIKNih"
+    },
+    {
+      "email": "sudy.taher2023@gmail.com",
+      "password": "$2a$10$D91pLlvBoPBBhntnp1mDzOIvzLVWRMqYvhyfEjmQtChhNXJzhs0FW",
+      "username": "sud",
+      "confirm-password": "123456",
+      "id": 65601451
+    }
+  ]
+}

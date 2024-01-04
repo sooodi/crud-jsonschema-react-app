@@ -1,0 +1,86 @@
+const loginFields = [
+  {
+    labelText: "Email address",
+    labelFor: "email-address",
+    id: "email",
+    name: "email",
+    type: "email",
+    autoComplete: "email",
+    isRequired: true,
+    placeholder: "Email address",
+  },
+  {
+    labelText: "Password",
+    labelFor: "password",
+    id: "password",
+    name: "password",
+    type: "password",
+    autoComplete: "current-password",
+    isRequired: true,
+    placeholder: "Password",
+  },
+];
+
+const signupFields = [
+  {
+    labelText: "Username",
+    labelFor: "username",
+    id: "username",
+    name: "username",
+    type: "text",
+    autoComplete: "username",
+    isRequired: true,
+    placeholder: "Username",
+  },
+  {
+    labelText: "Email address",
+    labelFor: "email-address",
+    id: "email",
+    name: "email",
+    type: "email",
+    autoComplete: "email",
+    isRequired: true,
+    placeholder: "Email address",
+  },
+  {
+    labelText: "Password",
+    labelFor: "password",
+    id: "password",
+    name: "password",
+    type: "password",
+    autoComplete: "current-password",
+    isRequired: true,
+    placeholder: "Password",
+  },
+  {
+    labelText: "Confirm Password",
+    labelFor: "confirm-password",
+    id: "confirm-password",
+    name: "confirm-password",
+    type: "password",
+    autoComplete: "confirm-password",
+    isRequired: true,
+    placeholder: "Confirm Password",
+  },
+];
+const addFields = [
+  {
+    labelText: "Name",
+    id: "name",
+    name: "name",
+    type: "text",
+    isRequired: true,
+    placeholder: "Name",
+    prefix: "",
+  },
+  {
+    labelText: "Price",
+    id: "price",
+    name: "price",
+    type: "number",
+    isRequired: true,
+    placeholder: "Price",
+    prefix: "$",
+  },
+];
+export { addFields, loginFields, signupFields };
