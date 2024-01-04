@@ -17,7 +17,6 @@ fs.readdirSync(schemaFolder).forEach((file) => {
 const promises = schemas.map((file) => resolve(file));
 Promise.all(promises)
   .then((data) => {
-    console.log("data = ", data);
     const result = data.reduce((acc, curr) => {
       const key = Object.keys(curr);
       acc[key] = curr[key];

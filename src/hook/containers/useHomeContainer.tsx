@@ -23,7 +23,6 @@ export const useHomeContainer = (shouldRetske?: boolean) => {
 
   useEffect(() => {
     if (done) {
-      console.log("delete accept");
       setSelectedProduct(undefined);
       setshouldDeleteProduct(false);
     }

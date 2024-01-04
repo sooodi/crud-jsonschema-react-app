@@ -46,11 +46,10 @@ export const productSlice = createSlice({
     },
     updateProduct(state, action) {
       let data = [...state.listProduct];
-      console.log("ss", action.payload, state.listProduct);
 
       var index = data.findIndex((obj) => obj.id === action.payload.id);
       data[index] = action.payload;
-      console.log("res", index, data);
+
       state.listProduct = data;
       state.filteredProduct = data;
       state.selectedProduct = {};

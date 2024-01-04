@@ -18,7 +18,7 @@ export default function Signup() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(signupState);
+
     createAccount();
   };
 
@@ -34,7 +34,6 @@ export default function Signup() {
     })
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
         navigate("/");
       });
   };

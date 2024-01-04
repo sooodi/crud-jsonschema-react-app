@@ -26,16 +26,9 @@ const useRequestLogin = () => {
 
     try {
       const response = await axios.request(actionRequestPost(LOGIN, userObj));
-      // try {
-
-      //   console.log("user",user)
-      //   const response = await axios.post( baseURL + "login",
-      //   JSON.stringify(user),{headers:headers})
 
       if (userObj && response.status === 200)
         setUser({ ...userObj, authToken: response.data?.accessToken });
-
-      console.log("add hi", response);
     } catch (error) {
       if (axios.isAxiosError(error)) {
         setError("Axios Error with Message: " + error.message);

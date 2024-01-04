@@ -23,13 +23,12 @@ export default function Login() {
   const { login } = useContext(AuthContext);
 
   const handleChange = (e: any) => {
-    //  console.log({ ...loginState }, e.target.id, e.target.value);
     setLoginState({ ...loginState, [e.target.id]: e.target.value });
   };
-  console.log(loginState);
+
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    console.log(loginState);
+
     let result = login(loginState);
   };
 
